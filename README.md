@@ -46,22 +46,17 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedyhasan10&show_icons=true&locale=en&layout=compact" alt="mehedyhasan10" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedyhasan10&show_icons=true&locale=en" alt="mehedyhasan10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedyhasan10&" alt="mehedyhasan10" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedyhasan10&show_icons=true&locale=en&layout=compact" alt="mehedyhasan10" /></p>
 
 
 
 
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MehedyHasan10)  
-
-![GitHub metrics](https://metrics.lecoq.io/MehedyHasan10)  
 
 
 
