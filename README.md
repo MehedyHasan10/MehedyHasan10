@@ -4,12 +4,12 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedy Hasan Siam</h1>
 <h3 align="center">I am learning how to become a Full stack developer</h3>
 
-<img align="right" alt="Coding" width="350" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"> <br>
+<img align="right" alt="Coding" width="400" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedyhasan10&label=Profile%20views&color=0e75b6&style=flat" alt="mehedyhasan10" /> </p>
+
 - 🌱 I’m currently learning **React & Node Js**
-
 - 📫 How to reach me **mehedisiam10@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedyhasan10&label=Profile%20views&color=0e75b6&style=flat" alt="mehedyhasan10" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/meheds4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meheds4" height="30" width="40" /></a>
