@@ -31,11 +31,10 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedyhasan10" alt="mehedyhasan10" /></a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedyhasan10&show_icons=true&locale=en&layout=compact" alt="mehedyhasan10" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedyhasan10&show_icons=true&locale=en" alt="mehedyhasan10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedyhasan10&" alt="mehedyhasan10" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedyhasan10" alt="mehedyhasan10" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedyhasan10&show_icons=true&locale=en&layout=compact" alt="mehedyhasan10" /></p>
