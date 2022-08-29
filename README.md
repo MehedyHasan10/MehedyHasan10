@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedy Hasan Siam</h1>
 <h3 align="center">I am learning how to become a Full stack developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif">
+<img align="right" alt="Coding" width="350" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedyhasan10&label=Profile%20views&color=0e75b6&style=flat" alt="mehedyhasan10" /> </p>
 - 🌱 I’m currently learning **React & Node Js**
