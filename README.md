@@ -1,4 +1,3 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=1sytw_vI3EhB7OPoaiq6QA2aByrPRFhLF)](https://drive.google.com/file/d/1sytw_vI3EhB7OPoaiq6QA2aByrPRFhLF/view?usp=sharing)
 <p align="center">
   <a href="https://drive.google.com/file/d/1sytw_vI3EhB7OPoaiq6QA2aByrPRFhLF/view?usp=sharing">
     <img src="https://drive.google.com/uc?export=view&id=1sytw_vI3EhB7OPoaiq6QA2aByrPRFhLF" width="1000" height="400" alt="MasterHead" />
