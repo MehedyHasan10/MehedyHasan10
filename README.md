@@ -35,12 +35,10 @@
 <p align="left">
    <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /></a>
   <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" /></a>
-  <a href="https://junit.org/junit5/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" width="40" height="40" /></a>
   <a href="https://maven.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40" /></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
   <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" /></a>
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" /></a>
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-nzmya&psig=AOvVaw1tjTGpa5xKj0ziO1NVvl0b&ust=1746036701247000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjPu93r_YwDFQAAAAAdAAAAABAE"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" width="40" height="40" /></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/testing.png" width="40" height="40" title="Testing" /></a>
 </p>
