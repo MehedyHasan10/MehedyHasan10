@@ -13,7 +13,7 @@
 </p>
 
 - 🔍 I'm focused on **manual & automated testing for web and mobile apps**
-- 🛠️ Tools I work with: **Selenium, TestNG, JUnit, Maven, Git, Jenkins**
+- 🛠️ Tools I work with: **Selenium, TestNG, Maven, Git, Jenkins**
 - 📚 Currently learning **Playwright, Cypress, and Performance Testing**
 - 📫 Reach me at **mehedisiam10@gmail.com**
 
