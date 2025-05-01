@@ -7,28 +7,6 @@
 
 <h1 align="center">Hi 👋, I'm Md. Mehedy Hasan Siam</h1>
 
-<h1 align="center" style="
-  background: linear-gradient(90deg, orange, yellow, orange);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: animateText 3s linear infinite;
-  font-weight: bold;
-  display: inline-block;
-">
-  Hi 👋, I'm Md. Mehedy Hasan Siam
-</h1>
-
-<style>
-@keyframes animateText {
-  0% {
-    background-position: 0% 50%;
-  }
-  100% {
-    background-position: 100% 50%;
-  }
-}
-</style>
-
 <h3 align="center">Software Quality Assurance (SQA) Engineer | Passionate about Automation & Testing</h3>
 
 <p align="right">
